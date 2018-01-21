@@ -1,0 +1,248 @@
+肖申克的救赎 The Shawshank Redemption :9.6
+教父 The Godfather :9.2
+教父2 The Godfather: Part Ⅱ :9.1
+蝙蝠侠：黑暗骑士 The Dark Knight :9.0
+十二怒汉 12 Angry Men :9.4
+辛德勒的名单 Schindler's List :9.4
+低俗小说 Pulp Fiction :8.8
+指环王3：王者无敌 The Lord of the Rings: The Return of the King :9.1
+黄金三镖客 Il buono, il brutto, il cattivo. :9.1
+指环王1：魔戒再现 The Lord of the Rings: The Fellowship of the Ring :8.9
+阿甘正传 Forrest Gump :9.4
+星球大战2：帝国反击战 Star Wars: Episode V - The Empire Strikes Back :8.2
+盗梦空间 Inception :9.3
+指环王2：双塔奇兵 The Lord of the Rings: The Two Towers :8.9
+飞越疯人院 One Flew Over the Cuckoo's Nest :9.0
+好家伙 Goodfellas :8.3
+黑客帝国 The Matrix :8.8
+七武士 七人の侍 :9.2
+星球大战 Star Wars :8.3
+上帝之城 Cidade de Deus :8.9
+七宗罪 Se7en :8.7
+沉默的羔羊 The Silence of the Lambs :8.7
+生活多美好 It's a Wonderful Life :9.2
+美丽人生 La vita è bella :9.5
+非常嫌疑犯 The Usual Suspects :8.6
+这个杀手不太冷 Léon :9.4
+拯救大兵瑞恩 Saving Private Ryan :8.9
+千与千寻 千と千尋の神隠し :9.2
+美国X档案 American History X :8.5
+西部往事 C'era una volta il West :8.5
+星际穿越 Interstellar :9.1
+绿里奇迹 The Green Mile :8.7
+惊魂记 Psycho :8.9
+卡萨布兰卡 Casablanca :8.6
+城市之光 City Lights :9.2
+触不可及 Intouchables :9.1
+寻梦环游记 Coco :9.1
+摩登时代 Modern Times :9.2
+钢琴家 The Pianist :9.0
+夺宝奇兵 Raiders of the Lost Ark :7.8
+无间道风云 The Departed :7.2
+后窗 Rear Window :8.4
+终结者2：审判日 Terminator 2: Judgment Day :8.5
+回到未来 Back to the Future :8.5
+爆裂鼓手 Whiplash :8.6
+角斗士 Gladiator :8.4
+狮子王 The Lion King :8.9
+致命魔术 The Prestige :8.8
+记忆碎片 Memento :8.5
+现代启示录 Apocalypse Now :8.4
+异形 Alien :7.9
+大独裁者 The Great Dictator :8.9
+日落大道 Sunset Blvd. :8.7
+天堂电影院 Nuovo Cinema Paradiso :9.1
+奇爱博士 Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb :8.7
+窃听风暴 Das Leben der Anderen :9.1
+萤火虫之墓 火垂るの墓 :8.7
+光荣之路 Paths of Glory :8.9
+被解救的姜戈 Django Unchained :8.5
+闪灵 The Shining :8.0
+机器人总动员 WALL·E :9.3
+美国丽人 American Beauty :8.4
+幽灵公主 もののけ姫 :8.8
+蝙蝠侠：黑暗骑士崛起 The Dark Knight Rises :8.5
+银翼杀手2049 Blade Runner 2049 :8.5
+老男孩 올드보이 :8.2
+异形2 Aliens :7.9
+控方证人 Witness for the Prosecution :9.6
+美国往事 Once Upon a Time in America :9.1
+从海底出击 Das Boot :9.0
+摔跤吧！爸爸 Dangal :9.1
+公民凯恩 Citizen Kane :8.5
+迷魂记 Vertigo :8.5
+西北偏北 North by Northwest :8.1
+星球大战3：绝地归来 Star Wars: Episode VI - Return of the Jedi :8.3
+勇敢的心 Braveheart :8.8
+落水狗 Reservoir Dogs :8.3
+M就是凶手 M :8.3
+梦之安魂曲 Requiem for a Dream :8.7
+地球上的星星 Taare Zameen Par :8.8
+天使爱美丽 Le fabuleux destin d'Amélie Poulain :8.7
+你的名字。 君の名は。 :8.5
+发条橙 A Clockwork Orange :8.4
+阿拉伯的劳伦斯 Lawrence of Arabia :8.7
+莫扎特传 Amadeus :8.6
+双重赔偿 Double Indemnity :8.5
+暖暖内含光 Eternal Sunshine of the Spotless Mind :8.4
+出租车司机 Taxi Driver :8.4
+杀死一只知更鸟 To Kill a Mockingbird :8.5
+全金属外壳 Full Metal Jacket :8.5
+2001太空漫游 2001: A Space Odyssey :8.6
+雨中曲 Singin' in the Rain :8.9
+玩具总动员3 Toy Story 3 :8.8
+三傻大闹宝莱坞 3 Idiots :9.1
+骗中骗 The Sting :8.7
+玩具总动员 Toy Story :8.2
+无耻混蛋 Inglourious Basterds :8.4
+偷自行车的人 Ladri di biciclette :8.9
+寻子遇仙记 The Kid :9.1
+偷拐抢骗 Snatch :8.5
+巨蟒与圣杯 Monty Python and the Holy Grail :7.9
+心灵捕手 Good Will Hunting :8.7
+狩猎 Jagten :9.0
+黄昏双镖客 Per qualche dollaro in più :8.7
+洛城机密 L.A. Confidential :8.6
+疤面煞星 Scarface :8.2
+桃色公寓 The Apartment :8.7
+大都会 Metropolis :8.9
+一次别离 جدایی نادر از سیمین :8.7
+罗生门 羅生門 :8.7
+夺宝奇兵3 Indiana Jones and the Last Crusade :8.1
+彗星美人 All About Eve :8.6
+用心棒 :8.8
+我的父亲，我的儿子 Babam ve Oğlum :9.0
+敦刻尔克 Dunkirk :8.5
+飞屋环游记 Up :8.9
+蝙蝠侠：侠影之谜 Batman Begins :8.2
+热情如火 Some Like It Hot :8.8
+碧血金沙 The Treasure of the Sierra Madre :8.6
+不可饶恕 Unforgiven :8.4
+帝国的毁灭 Der Untergang :8.6
+虎胆龙威 Die Hard :8.1
+愤怒的公牛 Raging Bull :8.3
+盗火线 Heat :8.4
+小鞋子 بچههای آسمان :9.2
+第三人 The Third Man :8.2
+大逃亡 The Great Escape :8.4
+生之欲 生きる :9.0
+唐人街 Chinatown :8.3
+潘神的迷宫 El laberinto del fauno :7.8
+龙猫 となりのトトロ :9.1
+焦土之城 Incendies :8.6
+乱 :8.8
+纽伦堡的审判 Judgment at Nuremberg :9.0
+淘金记 The Gold Rush :9.0
+谜一样的双眼 El secreto de sus ojos :8.3
+哈尔的移动城堡 ハウルの動く城 :8.9
+头脑特工队 Inside Out :8.7
+码头风云 On the Waterfront :7.9
+桂河大桥 The Bridge on the River Kwai :8.3
+第七封印 Det sjunde inseglet :8.3
+房间 Room :8.8
+两杆大烟枪 Lock, Stock and Two Smoking Barrels :9.0
+史密斯先生到华盛顿 Mr. Smith Goes to Washington :8.7
+美丽心灵 A Beautiful Mind :8.9
+赌城风云 Casino :8.2
+银翼杀手 Blade Runner :8.2
+象人 The Elephant Man :8.1
+V字仇杀队 V for Vendetta :8.8
+野草莓 Smultronstället :8.7
+华尔街之狼 The Wolf of Wall Street :7.6
+将军号 The General :9.0
+勇士 Warrior :8.9
+电话谋杀案 Dial M for Murder :8.6
+猜火车 Trainspotting :8.5
+老爷车 Gran Torino :8.6
+乱世佳人 Gone with the Wind :9.2
+猎鹿人 The Deer Hunter :8.4
+日出 Sunrise: A Song of Two Humans :8.8
+第六感 The Sixth Sense :8.8
+冰血暴 Fargo :7.9
+怪形 The Thing :7.8
+老无所依 No Country for Old Men :8.0
+安德烈·卢布廖夫 Андрей Рублёв :8.9
+谋杀绿脚趾 The Big Lebowski :7.6
+海底总动员 Finding Nemo :8.2
+强盗 Eskiya :7.0
+东京物语 東京物語 :9.2
+血色将至 There Will Be Blood :8.1
+铁窗喋血 Cool Hand Luke :8.1
+自己去看 Иди и смотри :8.4
+蝴蝶梦 Rebecca :8.2
+血战钢锯岭 Hacksaw Ridge :8.7
+杀死比尔 Kill Bill: Vol. 1 :8.1
+驯龙高手 How to Train Your Dragon :8.7
+芭萨提的颜色 Rang De Basanti :8.6
+圣女贞德蒙难记 La passion de Jeanne d'Arc :8.7
+玛丽和马克思 Mary and Max :8.9
+消失的爱人 Gone Girl :8.7
+禁闭岛 Shutter Island :8.6
+荒野生存 Into the Wild :8.6
+爱乐之城 La La Land :8.3
+万世魔星 Life of Brian :8.0
+一夜风流 It Happened One Night :8.7
+荒蛮故事 Relatos salvajes :8.7
+金刚狼3：殊死一战 Logan :8.3
+野战排 Platoon :8.1
+恐惧的代价 Le salaire de la peur :8.7
+卢旺达饭店 Hotel Rwanda :8.8
+电视台风云 Network :8.4
+因父之名 In the Name of the Father :8.8
+伴我同行 Stand by Me :8.9
+极速风流 Rush :8.8
+一个星期三的下午 A Wednesday :6.8
+布达佩斯大饭店 The Grand Budapest Hotel :8.7
+宾虚 Ben-Hur :8.6
+假面 Persona :8.7
+雷神3：诸神黄昏 Thor: Ragnarok :7.5
+四百击 Les quatre cents coups :8.7
+侏罗纪公园 Jurassic Park :8.0
+为奴十二年 12 Years a Slave :7.9
+疯狂的麦克斯4：狂暴之路 Mad Max: Fury Road :8.5
+百万美元宝贝 Million Dollar Baby :8.5
+聚焦 Spotlight :8.8
+潜行者 Сталкер :8.7
+楚门的世界 The Truman Show :9.1
+爱情是狗娘 Amores perros :8.2
+虎豹小霸王 Butch Cassidy and the Sundance Kid :8.7
+忠犬八公的故事 Hachi: A Dog's Tale :9.2
+风之谷 風の谷のナウシカ :8.8
+爱在黎明破晓前 Before Sunrise :8.7
+公主新娘 The Princess Bride :6.9
+马耳他之鹰 The Maltese Falcon :7.5
+纸月亮 Paper Moon :8.7
+囚徒 Prisoners :8.0
+卡比利亚之夜 Le notti di Cabiria :9.0
+哈利·波特与死亡圣器(下) Harry Potter and the Deathly Hallows: Part 2 :8.6
+愤怒的葡萄 The Grapes of Wrath :8.4
+猫鼠游戏 Catch Me If You Can :8.7
+洛奇 Rocky :8.5
+恶魔 Les diaboliques :8.5
+历劫佳人 Touch of Evil :8.1
+怪兽电力公司 Monsters, Inc. :8.6
+甘地传 Gandhi :8.6
+死亡幻觉 Donnie Darko :7.3
+巴里·林登 Barry Lyndon :8.7
+安妮·霍尔 Annie Hall :8.5
+终结者 The Terminator :7.9
+谍影重重3 The Bourne Ultimatum :8.7
+星球大战7：原力觉醒 Star Wars: The Force Awakens :7.1
+绿野仙踪 The Wizard of Oz :8.1
+土拨鼠之日 Groundhog Day :8.5
+怒火青春 La haine :8.2
+八部半 8½ :8.4
+黑帮大佬医生梦 Munna Bhai M.B.B.S. :7.6
+大白鲨 Jaws :7.7
+黄金时代 The Best Years of Our Lives :8.2
+十二猴子 Twelve Monkeys :8.1
+无间道 無間道 :9.0
+花样年华 花樣年華 :8.5
+德州巴黎 Paris, Texas :8.6
+相助 The Help :8.8
+死亡诗社 Dead Poets Society :8.9
+美女与野兽 Beauty and the Beast :8.3
+小姐 아가씨 :7.9
+阿尔及尔之战 La battaglia di Algeri :8.5
+加勒比海盗 Pirates of the Caribbean: The Curse of the Black Pearl :8.6
+热天午后 Dog Day Afternoon :8.6
